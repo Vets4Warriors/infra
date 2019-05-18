@@ -8,4 +8,4 @@ CMD mongoimport \
     --file location.json \
     --host mongodb \
     --db vets \
-    --collection Location 
+    --collection location 
